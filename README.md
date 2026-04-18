@@ -1,0 +1,1 @@
+This project is a Fake News Detection System that classifies news articles as real or fake using machine learning. It uses TF-IDF vectorization to process textual data and applies a Logistic Regression model trained on a real-world dataset from Kaggle. The system includes data preprocessing, model training, and real-time prediction functionality.
